@@ -40,7 +40,7 @@
 
 ### Приклад вставки коду:
 :
-    ![Приклад](materials/paste_code.png)
+    ![Приклад](materials/paste_code.jpg)
 
 ---
 
